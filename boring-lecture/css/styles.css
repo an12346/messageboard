@@ -1,11 +1,5 @@
-h2.intro {
-  font-style: italic;
-}
-
-p.intro {
-  font-style: cursive;
-}
-
-img.intro {
-  border-radius: 50%;
+.intro {
+  font-style: bold;
+  font-family: cursive;
+  color: rgb(121, 21, 121);
 }
