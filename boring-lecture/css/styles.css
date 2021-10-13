@@ -1,0 +1,11 @@
+h2.intro {
+  font-style: italic;
+}
+
+p.intro {
+  font-style: cursive;
+}
+
+img.intro {
+  border-radius: 50%;
+}
