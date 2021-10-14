@@ -1,0 +1,36 @@
+p.author {
+  width: 75%;
+  font-style: italic;
+  font-weight: bold;
+}
+
+.new {
+  color:aquamarine;
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+  color:lightcoral;
+  font-style: bold;
+}
+
+h2 {
+  text-align: center;
+  color:lightgreen;
+  font-style: italic;
+}
+
+.middle {
+  text-align: center;
+  color:blueviolet;
+}
+
+.end {
+  text-align: center;
+  color:mediumvioletred;
+}
+
+.bold {
+  color:violet;
+}
