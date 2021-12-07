@@ -1,0 +1,15 @@
+/Users/annapittman/Desktop/ping-pong/bin/Debug/net5.0/Ping-Pong.deps.json
+/Users/annapittman/Desktop/ping-pong/bin/Debug/net5.0/Ping-Pong.runtimeconfig.json
+/Users/annapittman/Desktop/ping-pong/bin/Debug/net5.0/Ping-Pong.runtimeconfig.dev.json
+/Users/annapittman/Desktop/ping-pong/bin/Debug/net5.0/Ping-Pong.dll
+/Users/annapittman/Desktop/ping-pong/bin/Debug/net5.0/ref/Ping-Pong.dll
+/Users/annapittman/Desktop/ping-pong/bin/Debug/net5.0/Ping-Pong.pdb
+/Users/annapittman/Desktop/ping-pong/obj/Debug/net5.0/Ping-Pong.csproj.AssemblyReference.cache
+/Users/annapittman/Desktop/ping-pong/obj/Debug/net5.0/Ping-Pong.GeneratedMSBuildEditorConfig.editorconfig
+/Users/annapittman/Desktop/ping-pong/obj/Debug/net5.0/Ping-Pong.AssemblyInfoInputs.cache
+/Users/annapittman/Desktop/ping-pong/obj/Debug/net5.0/Ping-Pong.AssemblyInfo.cs
+/Users/annapittman/Desktop/ping-pong/obj/Debug/net5.0/Ping-Pong.csproj.CoreCompileInputs.cache
+/Users/annapittman/Desktop/ping-pong/obj/Debug/net5.0/Ping-Pong.dll
+/Users/annapittman/Desktop/ping-pong/obj/Debug/net5.0/ref/Ping-Pong.dll
+/Users/annapittman/Desktop/ping-pong/obj/Debug/net5.0/Ping-Pong.pdb
+/Users/annapittman/Desktop/ping-pong/obj/Debug/net5.0/Ping-Pong.genruntimeconfig.cache
