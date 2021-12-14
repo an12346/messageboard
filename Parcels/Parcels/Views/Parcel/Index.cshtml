@@ -1,0 +1,19 @@
+@using Parcel.Models;
+
+<h1>All packages (recently added first)</h1>
+
+@if (Model.Count == 0)
+{
+  <p>No parcels shipped yet</p>
+}
+<ul>
+  @for (int i = Model.Count - 1; i >= 0; i--)
+  {
+    string dataLine = $"Weight: {Model[i].Weight} Height: {Model[i].Height} Width: {Model[i].Width} Length: {Model[i].Length} Cost: {Model[i].CostToShip()}";
+    <li>@dataLine</li>
+  }
+  </ul>
+  <a href="/parcels/new">Add a new parcel.</a>
+
+  <a href="/parcels/clear">Clear all parcels.</a>
+
