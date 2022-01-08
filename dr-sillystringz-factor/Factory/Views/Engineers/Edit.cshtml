@@ -1,0 +1,18 @@
+@{
+  Layout = "_Layout";
+}
+
+@model Factory.Models.Engineer
+
+<h2>Edit this Engineer: @Html.DisplayFor(model => model.EngineerName)</h2>
+
+@using (Html.BeginForm())
+{
+  @Html.HiddenFor(model => model.EngineerId)
+  @Html.LabelFor(model => model.EngineerName)
+  @Html.EditorFor(model => model.EngineerName)
+
+  <input type="submit" value="Save"/>
+}
+
+<h4>@Html.ActionLink("Back to Engineers", "Index")</h4>
