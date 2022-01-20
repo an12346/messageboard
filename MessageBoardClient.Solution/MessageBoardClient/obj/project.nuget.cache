@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "NCNMWRDwz9endNL06k1cWzKPWwb0cvNhFI+HeOcF7XtENmM7HFG+0T2dC7Vm5v+x4sMjuvsR/P6dmoW+3UUYRA==",
+  "success": true,
+  "projectFilePath": "/Users/annapittman/Desktop/MessageBoardClient.Solution/MessageBoardClient/MessageBoardClient.csproj",
+  "expectedPackageFiles": [
+    "/Users/annapittman/.nuget/packages/newtonsoft.json/12.0.2/newtonsoft.json.12.0.2.nupkg.sha512",
+    "/Users/annapittman/.nuget/packages/restsharp/106.6.10/restsharp.106.6.10.nupkg.sha512"
+  ],
+  "logs": []
+}
